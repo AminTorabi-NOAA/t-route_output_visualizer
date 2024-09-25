@@ -214,8 +214,4 @@ This dashboard provides an interactive platform for visualizing and analyzing hy
 This visualizer is not official version, It's built for internal use of inland hydraulic team 
 
 
----
-
-Feel free to customize this user manual further to suit your specific requirements or to include additional information pertinent to your version of the dashboard.
-
 ![image](https://github.com/user-attachments/assets/fb401d1b-30a9-4800-96cb-072beff48f4f)
